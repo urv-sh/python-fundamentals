@@ -22,4 +22,4 @@ The work in this repository focuses on building a strong foundation in programmi
 These exercises demonstrate my ability to:
 - Break down problems logically  
 - Write structured and readable code  
-- Apply fundamental programming concepts  
+- Apply fundamental programming concepts
